@@ -79,3 +79,15 @@ body {
 .list-group-flush {
   font-family: "poppins", serif;
 }
+
+ .bottom-sec{
+    background-color: blue;
+    height: 450px;
+   
+} 
+
+.form-div{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
