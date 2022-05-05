@@ -1,0 +1,93 @@
+body {
+  background-color: #e5e5e5;
+}
+.navbar {
+  background-color: white;
+}
+.navbar .navbar-brand {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  transition: 0.2s;
+  color: rgba(96, 112, 255, 1);
+}
+
+.navbar .navbar-brand:hover {
+  color: var(--primary-color);
+  transform: scale(1.1);
+}
+
+.navbar .navbar-nav .nav-link {
+  font-size: 15px;
+  font-weight: 500;
+  color: rgba(52, 69, 99, 1);
+  font-family: "Inter", sans-serif;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: var(--primary-color);
+}
+
+.landing {
+  height: 100vh;
+  background-image: url(/imgs/headerBackgroundDesktop.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgba(9, 30, 66, 1);
+  background-color: white;
+}
+.landing h1 {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: var(--font-family-Crete-Round);
+  color: rgba(9, 30, 66, 1);
+}
+
+.connect {
+  color: rgba(127, 140, 255, 1);
+}
+
+.about {
+  height: 100vh;
+  background-color: white;
+}
+
+.about h1 {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: var(--font-family-Crete-Round);
+  color: rgba(9, 30, 66, 1);
+}
+
+.btn-primary {
+  color: rgba(57, 109, 242, 1);
+  background-color: transparent;
+  border-color: rgba(57, 109, 242, 1);
+}
+.btn-primary:hover {
+  background-color: rgba(57, 109, 242, 1);
+}
+
+.list-group-horizontal .list-group-item {
+  background-color: rgba(247, 247, 249, 1);
+}
+
+.separator {
+  border: solid 0 0 1px #fff;
+}
+
+.list-group-flush {
+  font-family: "poppins", serif;
+}
+
+ .bottom-sec{
+    background-color: blue;
+    height: 450px;
+   
+} 
+
+.form-div{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
