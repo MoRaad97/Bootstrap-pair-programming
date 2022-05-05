@@ -1,56 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# prototype of the portfolio website
 
-> Description the project.
+> prototype of the portfolio website using Bootstrap framework
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Css
+- Htnl
+- Bootstrap
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+[Live Demo Link](https://moraad97.github.io/Bootstrap-pair-programming/)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Mohammed Raad**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@MoRaad97](https://github.com/MoRaad97)
+- Twitter: [@MohammedRaadz](https://twitter.com/MohammedRaadz)
+- LinkedIn: [Mohammed Raad](linkedin.com/in/mohammed-raad-600176210)
 
-👤 **Author2**
+👤 **Henry V. Singbeh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@henrycode460](https://github.com/henrycode460)
 
 ## 🤝 Contributing
 
@@ -64,10 +40,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse Team
+- Micronaots
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+none.
